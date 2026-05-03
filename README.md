@@ -41,3 +41,16 @@
   - build – compiles the project, runs tests, and creates the build output.
   - test – runs tests.
   - clean – deletes the build output.
+
+## 5. Working:
+
+- gradle init
+- yes
+- 1
+- 1
+- [Project name (Program-2)]
+- 1
+- 2
+- 1
+- yes
+- gradle run
